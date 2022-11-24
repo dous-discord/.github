@@ -27,13 +27,13 @@ Now run
 ```sh
 npm start
 ```
-<b>The Bot Should Get Online<b>
+The Bot Should Get Online
 
 ## 🖼️ Images
-<img src="img1.png">
-<img src="img2.png">
-<img src="img3.png">
-<img src="purge.png">
+<img src="https://i.imgur.com/V7N5bao.png">
+<img src="https://i.imgur.com/nmuQOnH.png">
+<img src="https://i.imgur.com/0hFMius.png">
+<img src="https://i.imgur.com/fjSUMsK.png">
 
 ## 📺 Updates
 We are always adding more stuff!
