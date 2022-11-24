@@ -36,4 +36,4 @@ npm start
 <img src="purge.png">
 
 ## 📺 Updates
-we are always adding more stuff!
+We are always adding more stuff!
