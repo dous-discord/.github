@@ -37,7 +37,7 @@ The Bot Should Get Online
   </tr>
 </table>
 
-## 👨‍💻 Contrbutors
+## 👨‍💻 Thanks to our Contributor:
   <table>
   <tr align="center">
     <td><a href="https://github.com/Meesam4687"><img src="https://avatars.githubusercontent.com/u/70945820?s=100" /><br /><sub><b>Meesam</b></sub></a></td>
@@ -46,7 +46,8 @@ The Bot Should Get Online
 </table>
 
 <table>
-## 🖼️ Images
+  
+## 🖼️Images
 <img src="https://i.imgur.com/V7N5bao.png">
 <img src="https://i.imgur.com/nmuQOnH.png">
 <img src="https://i.imgur.com/0hFMius.png">
