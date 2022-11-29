@@ -28,7 +28,23 @@ Now run
 npm start
 ```
 The Bot Should Get Online
+## Developers
+<table>
+  <tr align="center">
+    <td><a href="https://github.com/RaxTak"><img src="https://avatars.githubusercontent.com/u/105811418?s=100" /><br /><sub><b>RaxTak</b></sub></a></td>
+    <td><a href="https://github.com/Habeel06"><img src="https://avatars.githubusercontent.com/u/102403483?s=100" /><br /><sub><b>Habeel</b></sub></a></td>
+   
+  </tr>
+</table>
+## Contrbutors
+  <table>
+  <tr align="center">
+    <td><a href="https://github.com/Meesam4687"><img src="https://avatars.githubusercontent.com/u/70945820?s=100" /><br /><sub><b>Meesam</b></sub></a></td>
+   
+  </tr>
+</table>
 
+<table>
 ## 🖼️ Images
 <img src="https://i.imgur.com/V7N5bao.png">
 <img src="https://i.imgur.com/nmuQOnH.png">
