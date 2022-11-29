@@ -28,7 +28,7 @@ Now run
 npm start
 ```
 The Bot Should Get Online
-## Developers
+## 👨‍💻 Developers
 <table>
   <tr align="center">
     <td><a href="https://github.com/RaxTak"><img src="https://avatars.githubusercontent.com/u/105811418?s=100" /><br /><sub><b>RaxTak</b></sub></a></td>
@@ -36,7 +36,8 @@ The Bot Should Get Online
    
   </tr>
 </table>
-## Contrbutors
+
+## 👨‍💻 Contrbutors
   <table>
   <tr align="center">
     <td><a href="https://github.com/Meesam4687"><img src="https://avatars.githubusercontent.com/u/70945820?s=100" /><br /><sub><b>Meesam</b></sub></a></td>
