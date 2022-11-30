@@ -37,7 +37,7 @@ The Bot Should Get Online
   </tr>
 </table>
 
-## 👨‍💻 Thanks to our Contributor:
+## 👨‍💻 Contributor:
   <table>
   <tr align="center">
     <td><a href="https://github.com/Meesam4687"><img src="https://avatars.githubusercontent.com/u/70945820?s=100" /><br /><sub><b>Meesam</b></sub></a></td>
